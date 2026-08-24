@@ -1,0 +1,8 @@
+nano static_security_auditor.py
+# (Paste the static_security_auditor.py code, then press Ctrl+O, Enter, and Ctrl+X to save)
+
+nano batch_auditor.py
+# (Paste the batch_auditor.py code, then press Ctrl+O, Enter, and Ctrl+X to save)
+
+nano test_security_auditor.py
+# (Paste the test_security_auditor.py code, then press Ctrl+O, Enter, and Ctrl+X to save)
